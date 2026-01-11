@@ -9,7 +9,7 @@
 Meskipun proyek ini membahas topik kesehatan mental, dataset yang digunakan
 **tidak mengandung data pribadi atau identitas individu**.
 
-Projek ini menggunakan **data sekunder yang bersifat publik** dan ditujukan **hanya untuk kepentingan akademik dan pembelajaran**. Hasil analisis **tidak dimaksudkan sebagai kesimpulan medis atau klinis**.
+Proyek ini menggunakan **data sekunder yang bersifat publik** dan ditujukan **hanya untuk kepentingan akademik dan pembelajaran**. Hasil analisis **tidak dimaksudkan sebagai kesimpulan medis atau klinis**.
 
 >>>
 
@@ -143,3 +143,4 @@ Kadek Savita Dyutianaya
 Applied Data Science Student
 
 Politeknik Elektronika Negeri Surabaya
+
