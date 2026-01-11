@@ -4,7 +4,7 @@
 
 >>>
 
-## Warning / Peringatan
+## !!! Warning / Peringatan
 
 Meskipun proyek ini membahas topik kesehatan mental, dataset yang digunakan
 **tidak mengandung data pribadi atau identitas individu**.
@@ -141,4 +141,5 @@ Dataset yang digunakan berasal dari Kaggle dengan judul *Student Mental Health*.
 
 Kadek Savita Dyutianaya
 Applied Data Science Student
+
 Politeknik Elektronika Negeri Surabaya
